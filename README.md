@@ -14,7 +14,7 @@
 ![Dashboard](vercel.png)
 
 ### Telegram-уведомление
-![Telegram notification](Screenshot 2026-04-14 at 19.54.46.png)
+![Telegram notification](telegram1.png,telegram2.png)
 
 ---
 
