@@ -1,0 +1,12 @@
+.env
+.env.local
+.env.*.local
+last_seen.txt
+node_modules
+.next
+.vercel
+__pycache__
+*.pyc
+notifier.log
+tz_venv/
+.DS_Store
