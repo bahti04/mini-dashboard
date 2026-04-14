@@ -11,10 +11,10 @@
 > Замените файлы в `docs/` на свои скриншоты — ссылки подхватятся автоматически.
 
 ### Дашборд
-![Dashboard](docs/dashboard.png)
+![Dashboard](Screenshot 2026-04-14 at 19.58.45.png)
 
 ### Telegram-уведомление
-![Telegram notification](docs/telegram.png)
+![Telegram notification](Screenshot 2026-04-14 at 19.54.46.png)
 
 ---
 
