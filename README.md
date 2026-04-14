@@ -11,7 +11,7 @@
 > Замените файлы в `docs/` на свои скриншоты — ссылки подхватятся автоматически.
 
 ### Дашборд
-![Dashboard](Screenshot 2026-04-14 at 19.58.45.png)
+![Dashboard](vercel.png)
 
 ### Telegram-уведомление
 ![Telegram notification](Screenshot 2026-04-14 at 19.54.46.png)
